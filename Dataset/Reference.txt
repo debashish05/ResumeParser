@@ -1,0 +1,8 @@
+DATASET Reference:
+
+Skills	        https://github.com/OmkarPathak/pyresparser/blob/master/pyresparser/skills.csv
+College_name    NIRF + CS RANKINGS Website
+Disciplanes		  Self
+Degree			    Self 
+Designation     https://github.com/fluquid/find_job_titles
+company_names 	https://github.com/mratanusarkar/dataset-indian-companies

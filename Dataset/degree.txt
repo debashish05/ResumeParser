@@ -1,0 +1,40 @@
+Doctor of Philosophy
+P.hD.
+PHD
+Master of Technology
+M.Tech.
+MTech
+M. Tech.
+M. Tech
+Bachelor of Technology
+B.Tech.
+BTech
+B.Tech
+B. Tech.
+Master of Engineering
+M.E.
+M.Tech
+M. E.
+Bachelor of Engineering
+Master of Computer Application
+MCA
+M.C.A.
+M. C. A.
+Bachelor of Computer Application
+BCA
+B.C.A.
+B. C. A.
+Bachelor of Science
+B. S.
+BS
+B.Sc.
+BSc
+Master of Science
+M. S.
+M.Sc.
+MSc
+
+
+
+
+
